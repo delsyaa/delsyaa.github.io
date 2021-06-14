@@ -1,0 +1,53 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin:0;
+}
+
+.container{
+    width: 65%;
+    height: auto;
+    background: black;
+    margin:auto;
+    margin-top: 5px;
+    padding-bottom: 5px;
+}
+
+p{
+	color: hsl(0, 0%, 86%)
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: left;
+    font-size: 15px;
+    font-family: "Times New Roman", Times, serif
+}
+
+th{
+    background-color: hsl(48, 100%, 67%);
+}
+
+td{
+    background-color: hsl(48, 100%, 67%)
+}
+
+article {
+    width: 98.8%;
+    height: auto;
+    border-radius: 3px;
+    margin: 5px 5px 5px 5px;
+    border: 1px solid gainsboro;
+    clear: both;
+}
+
+footer {
+    clear: both;
+    width: 98.8%;
+    height: auto;
+    text-align: center;
+    margin: 5px 5px 5px 5px;
+    border-radius: 3px;
+    border-bottom: 1px solid gainsboro;
+    padding-top: 15px;
+    padding-bottom: 15px
